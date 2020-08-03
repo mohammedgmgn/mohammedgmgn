@@ -10,10 +10,13 @@
   <b>Current Company: <a href="https://www.warbabank.com/">Warba Bank</a> </br>
   
   
-  My areas of interest are:
+## My areas of interest are:
 
-. Created, maintained and published native Android applications using Java and Kotlin.
+</b>. Created, maintained and published native Android applications using Java and Kotlin.</br>
+
+
 . Involve in the full mobile application development lifecycle including designing, coding, testing, and publishing.
+
 . Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
 
   
